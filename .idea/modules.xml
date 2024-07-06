@@ -3,10 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Design Pattern/Design Pattern.iml" filepath="$PROJECT_DIR$/Design Pattern/Design Pattern.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LRU/LRU.iml" filepath="$PROJECT_DIR$/LRU/LRU.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/Design Pattern/ZeRenLian/ZeRenLian.iml" filepath="$PROJECT_DIR$/Design Pattern/ZeRenLian/ZeRenLian.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ZuHe.iml" filepath="$PROJECT_DIR$/ZuHe.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled1/untitled1.iml" filepath="$PROJECT_DIR$/untitled1/untitled1.iml" />
       <module fileurl="file://$PROJECT_DIR$/xiancheng/xiancheng.iml" filepath="$PROJECT_DIR$/xiancheng/xiancheng.iml" />
